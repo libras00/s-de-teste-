@@ -1,0 +1,14 @@
+body.dark{
+    background-color: #0D0E0E;
+    color: white;
+}
+
+body.dark p{
+    color: rgb(177, 61, 245);
+}
+
+nav{
+    display: flex;
+    text-align: center;
+    gap: 8px;
+}
