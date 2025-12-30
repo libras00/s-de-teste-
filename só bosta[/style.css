@@ -1,0 +1,52 @@
+.corpo{
+background-image: url(img/411841.png) ;
+background-repeat: no-repeat;
+background-size: cover;
+background-color: black;
+background-position: center;
+
+
+}
+.text1{
+    color: rgb(223, 65, 238);
+    text-align: center;
+    text-justify:auto;
+    padding-top: 10px;
+position: relative;
+height: 10em;
+}
+.page_main{
+        background-color: #df376f; /* esse vc ja sabe que é pra mudar a cor do fundo    */
+    border-radius: 30px; /*modifica o contorno na bortda deixando arredondada*/
+    min-height: 480px;   /*meio que afasta o fundo, n entendi mt bem mas é tipo isso */
+    padding: 150px 40px;  /*o primeiro mexe na dimensão da vertical e o segunda na dimensão da horizontal*/
+    position: relative;   /*O elemento é deslocado (empurrado) da sua posição original, mas o espaço que ele ocuparia permanece, como se ele ainda estivesse lá (peguei do google pq n entendi oq fazia)*/
+
+
+}
+.rodape1{
+    padding: 20px 15px;
+    background-color: aliceblue;
+}
+.caixa-pergunda{
+    padding: 20px 16px;
+    background-color: aliceblue;
+}
+.texto-de-apresentação{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px;
+color: rgb(0, 0, 0);
+}
+.text-rodape1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px;
+    color: rgb(0, 0, 0) ;
+
+}
+.tentativa{
+    padding: 200px 1%;
+    size: 130%;
+
+
+    background-color: #69ec69;
+}
